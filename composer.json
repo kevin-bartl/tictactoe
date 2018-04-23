@@ -1,8 +1,7 @@
 {
     "name": "kevin-bartl/tictactoe",
     "description": "TicTacToe",
-    "minimum-stability": "stable",
-    "license": "proprietary",
+    "license": "MIT",
     "require": {
         "php": ">=5.6.23"
     },
