@@ -1,10 +1,10 @@
 <?php
 
-require __DIR__ . '/vendor/autoload.php';
+require __DIR__ . '/../../autoload.php';
 
 use kb\TicTacToe;
 
-$options = parse_ini_file('configs/players.ini', true);
+$options = parse_ini_file('configs/options.ini', true);
 
 $valid = false;
 while (!$valid) {
